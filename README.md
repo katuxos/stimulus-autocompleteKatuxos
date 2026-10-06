@@ -122,6 +122,13 @@ For many business applications, loading a few dozen or even a few hundred record
 
 If you need server-side searching, pagination, or very large datasets, consider an AJAX-based solution instead.
 
+--- 
+
+## Quick access 
+You can also grab the controller directly from this Gist: 
+
+ **https://gist.github.com/katuxos/f43bff8b10f0d418fc079a6cbd338e69.js**
+
 ---
 
 ## License
