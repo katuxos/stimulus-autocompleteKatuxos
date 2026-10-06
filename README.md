@@ -127,7 +127,7 @@ If you need server-side searching, pagination, or very large datasets, consider 
 ## Quick access 
 You can also grab the controller directly from this Gist: 
 
- **https://gist.github.com/katuxos/f43bff8b10f0d418fc079a6cbd338e69.js**
+ **https://gist.github.com/katuxos/f43bff8b10f0d418fc079a6cbd338e69**
 
 ---
 
